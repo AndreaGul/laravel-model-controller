@@ -1,3 +1,5 @@
+@dd($movies);
+
 <!DOCTYPE html>
 <html lang="en">
 
