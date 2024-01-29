@@ -4,7 +4,8 @@
 body {
     //background-image: url("../img/duck.jpg");
 
-    h1 {
-        color: blue;
+    .ag-card-container {
+        width: calc((100% / 5) - 20px);
+        margin: 10px;
     }
 }
